@@ -156,25 +156,17 @@ After data cleaning and preprocessing, an interactive dashboard was developed us
 
 ## 📊 Dashboard Screenshots
 
-### Dashboard Home Page
-<img width="1919" height="1079" alt="Screenshot 2026-06-20 145839" src="https://github.com/user-attachments/assets/0179458f-2339-4fc9-a7ae-77f221d60697" />
+### Dashboard
+<img width="1830" height="846" alt="Screenshot 2026-06-24 110558" src="https://github.com/user-attachments/assets/c9b533ed-ec58-4fc9-aacf-84d9a8dbf206" />
 
-### Missing Values Analysis
-<img width="1501" height="684" alt="Screenshot 2026-06-20 145911" src="https://github.com/user-attachments/assets/11d8f7b6-9562-445a-b5cb-6e8cbf8425b8" />
+### Dataset Preview
+<img width="1907" height="866" alt="Screenshot 2026-06-24 110624" src="https://github.com/user-attachments/assets/1bd0670b-c880-46a3-9a93-a4b8ed57925b" />
 
+### Cleaning
+<img width="1912" height="850" alt="Screenshot 2026-06-24 110648" src="https://github.com/user-attachments/assets/9d4c3ea9-a2aa-4cc7-a390-6b656c3b8a57" />
 
-### Cases by Country
-<img width="1390" height="691" alt="Screenshot 2026-06-20 145955" src="https://github.com/user-attachments/assets/c632a5eb-912f-4b6c-b841-8283a270d3c5" />
-
-
-### Death Distribution
-<img width="1431" height="666" alt="Screenshot 2026-06-20 150410" src="https://github.com/user-attachments/assets/395d4a9a-834e-48ef-a1f8-ce69290a383a" />
-
-
-### Vaccination Analysis
-<img width="1556" height="714" alt="Screenshot 2026-06-20 150034" src="https://github.com/user-attachments/assets/64c30d8e-78a7-421d-b7dd-e2b4ed7f8c2a" />
-
-
+### Visualisation
+<img width="1895" height="897" alt="Screenshot 2026-06-24 110720" src="https://github.com/user-attachments/assets/efec7589-e306-4fd9-b87a-ea97e69ec856" />
 
 ---
 
